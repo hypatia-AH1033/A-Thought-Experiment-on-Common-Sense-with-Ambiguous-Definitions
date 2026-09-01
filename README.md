@@ -12,8 +12,8 @@ Reflections by Four AI Models (ChatGPT, Gemini, Claude, Grok) on Individual Diff
 - [読み方（ガイド）](02_how_to_read.md)
 - [主要な発見](03_key_findings.md)
 - [一次資料](primary_sources/)
-  - `本文.pdf`（提示プロンプトおよび実験全容）
-  - `実験ログ.pdf`（各LLMからの出力生データ）
+  - [本文.pdf](primary_sources/本文.pdf)（提示プロンプトおよび実験全容）
+  - 実験ログ.pdf（各LLMからの出力生データ）
 
 ## 一次資料について
-本リポジトリの `primary_sources/` ディレクトリ配下に格納されているファイルは、検証時に取得した生のやりとりおよびログデータです。補足や解釈を加えないそのままの一次データとして公開しています。
+本リポジトリの [primary_sources/](primary_sources/) ディレクトリ配下に格納されているファイルは、検証時に取得した生のやりとりおよびログデータです。補足や解釈を加えないそのままの一次データとして公開しています。
